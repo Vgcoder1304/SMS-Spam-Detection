@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+sms-spam-detection.ipynb
+spam.csv
+myenv
