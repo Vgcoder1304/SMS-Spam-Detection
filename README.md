@@ -1,2 +1,1 @@
-# SMS-Spam-Detection
-End-to-end SMS Spam Classifier built with Python, NLTK, Scikit-learn, and Streamlit.
+Machine learning-powered SMS Spam Classifier with NLP preprocessing, TF-IDF vectorization, and Streamlit, deployed on Render.
